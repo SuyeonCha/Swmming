@@ -20,10 +20,8 @@
 <br>
 <br>
 
- <h3>구현 과정  </h3>
-![image](https://user-images.githubusercontent.com/81402961/228537972-accb4049-6330-47b1-a966-6be7b08046d4.png)
-![image](https://user-images.githubusercontent.com/81402961/228537994-e5641b2c-366b-4cf7-8838-106f64c584f2.png)
+ <h3>구현 과정</h3>
+ <div><img width="40%" src="https://user-images.githubusercontent.com/81402961/228538569-f17d0683-f724-464c-8019-a423e37bc54b.png"/> <img width="40%" src="https://user-images.githubusercontent.com/81402961/228538583-6f523d35-8bd7-4ca7-8fa4-52e4cef0d758.png"/></div>
 <br>
-![image](https://user-images.githubusercontent.com/81402961/228538013-d3469843-39fa-4ecc-82a7-33dbd25178bb.png)
-![image](https://user-images.githubusercontent.com/81402961/228538024-85c1b0d5-0b99-48af-bffd-a1e0bd157074.png)
+ <div><img width="40%" src="https://user-images.githubusercontent.com/81402961/228538600-e5dec718-446a-4df7-a3c3-46f89b6513ff.png"/> <img width="40%" src="https://user-images.githubusercontent.com/81402961/228538614-d73d16d0-b860-4d1c-b6d1-b7779e9a861a.png"/></div>
 
